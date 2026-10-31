@@ -1,5 +1,7 @@
 # 🧠 DeepVision AI: CNN Image Classifier & Explainable AI Studio
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=yogenjangle-ai/DL_Training-_Project_3&branch=main&mainModule=app2.py)
+
 An end-to-end Computer Vision & Deep Learning project built with **PyTorch** and **Streamlit**.
 
 ## 🚀 Quick Start (1-Click Run)
